@@ -178,7 +178,3 @@ GitHub: https://github.com/fezphantom
 ## 📄 License
 
 MIT License
-
-## Run Instructions
-pip install -r requirements.txt
-streamlit run app.py
